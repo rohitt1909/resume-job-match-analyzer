@@ -1,0 +1,18 @@
+Rohit Mishra
+Mumbai, India | rohittmishra199@gmail.com
+
+EDUCATION
+B.E. in Computer Engineering, University of Mumbai, 2024 (CGPA 8.4)
+
+EXPERIENCE
+Data Analyst Intern, FinServe Analytics (Jun 2023 - Dec 2023)
+- Built weekly sales dashboards in Power BI used by 12 regional managers
+- Wrote SQL queries on PostgreSQL to clean and aggregate 2M+ rows
+- Automated report generation with Python (pandas), saving about 6 hours per week
+
+PROJECTS
+- Customer Churn Prediction: logistic regression and random forest in scikit-learn, 82% accuracy
+- Expense Tracker Web App: Flask and SQLite
+
+SKILLS
+Python, SQL, pandas, scikit-learn, Power BI, Excel, Flask, Git

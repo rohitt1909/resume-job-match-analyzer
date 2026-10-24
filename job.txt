@@ -1,0 +1,10 @@
+Junior Data Scientist - RetailNext
+
+Requirements:
+- Bachelor's degree in Computer Science, IT, Statistics or related field
+- 1+ years of experience with Python and SQL
+- Experience with machine learning (scikit-learn, XGBoost)
+- Experience building dashboards (Tableau or Power BI)
+- Knowledge of A/B testing and statistics
+- Familiarity with AWS or other cloud platforms
+- Strong communication skills
